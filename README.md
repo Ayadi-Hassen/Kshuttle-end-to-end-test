@@ -31,8 +31,5 @@ This will open the Cypress Test Runner, where you can select which test file to 
 
 ## Contact
 
-
-## 🔗 Links
-
-[![linkedin](https://www.linkedin.com/in/hassen-ayadi-8534661ba/)](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/hassen-ayadi-8534661ba/)
 
